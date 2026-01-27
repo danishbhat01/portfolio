@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "title": "Predictive Maintenance for Machines",
+        "description": "Built a machine learning system to predict equipment breakdowns using sensor data, enabling proactive maintenance and reducing operational downtime.",
+        "problem": "Unplanned machine failures were causing frequent downtime and increased maintenance costs.",
+        "approach": [
+            "Cleaned and preprocessed 5,000+ rows of sensor data",
+            "Performed exploratory data analysis to identify key features",
+            "Trained and tuned a Random Forest Regressor model"
+        ],
+        "outcome": "Achieved approximately 20% reduction in machine downtime by enabling predictive maintenance scheduling.",
+        "tags": [
+            "Python",
+            "Pandas",
+            "Scikit-learn",
+            "Random Forest",
+            "Data Analysis",
+            "Machine Learning"
+        ],
+        "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=400&q=50",
+        "liveUrl": null,
+        "githubUrl": null,
+        "featured": true
+    },
+    {
+        "id": 2,
+        "title": "Nyaya Bot – AI Legal Assistant",
+        "description": "Developed an AI-powered chatbot that provides simplified legal guidance based on Indian law datasets.",
+        "problem": "Legal information is difficult for non-experts to access and understand quickly.",
+        "approach": [
+            "Trained chatbot on 3,000+ legal data points",
+            "Designed conversational flows for common legal scenarios",
+            "Integrated Gemini API for natural language understanding"
+        ],
+        "outcome": "Made the rightful knowledge of law accessible on fingertips of the user.",
+        "tags": [
+            "Python",
+            "Gemini API",
+            "Pandas",
+            "Scikit-learn",
+            "NLP",
+            "Chatbot"
+        ],
+        "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008?auto=format&fit=crop&w=400&q=50",
+        "liveUrl": null,
+        "githubUrl": "https://github.com/danishbhat01/Nyaya-Bot",
+        "featured": true
+    },
+    {
+        "id": 3,
+        "title": "Sales Analysis Dashboard",
+        "description": "Created an interactive business intelligence dashboard to analyze historical sales performance and trends.",
+        "problem": "Sales teams lacked visibility into regional performance, payment trends, and quarterly growth.",
+        "approach": [
+            "Analyzed 10,000+ sales records",
+            "Built Power BI dashboard with filters and drilldowns",
+            "Visualized state-wise sales, quarterly trends, and payment methods"
+        ],
+        "outcome": "Enabled data-driven decisions for sales strategy and inventory planning.",
+        "tags": [
+            "Excel",
+            "Power BI",
+            "Data Analysis",
+            "Data Visualization"
+        ],
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=400&q=50",
+        "liveUrl": null,
+        "githubUrl": null,
+        "featured": false
+    },
+    {
+        "id": 4,
+        "title": "Gesture Recognition System (In Progress)",
+        "description": "Developing a real-time hand gesture recognition system for touchless interaction and accessibility.",
+        "problem": "Traditional input devices limit accessibility and natural human-computer interaction.",
+        "approach": [
+            "Used OpenCV and MediaPipe for hand tracking",
+            "Training CNN models to classify gestures",
+            "Optimizing real-time inference performance"
+        ],
+        "outcome": "Working prototype with improving accuracy for predefined gestures.",
+        "tags": [
+            "Python",
+            "OpenCV",
+            "MediaPipe",
+            "CNN",
+            "Computer Vision"
+        ],
+        "image": "https://images.unsplash.com/photo-1516110833967-0b5716ca1387?auto=format&fit=crop&w=400&q=50",
+        "liveUrl": null,
+        "githubUrl": "https://github.com/danishbhat01/Gesture-Recognition",
+        "featured": false
+    }
+]

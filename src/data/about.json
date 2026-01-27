@@ -1,0 +1,93 @@
+{
+    "bio": "I am an AI systems builder who combines no-code platforms with custom code to design and prototype intelligent web applications. I have a strong grasp of machine learning concepts, data science workflows, and data analytics, and I focus on turning ideas into working AI-powered systems. My main work includes building platforms like Antigravity and EvalPro that automate interviews, evaluate candidates, and assist decision-making using AI.",
+    "skills": [
+        {
+            "category": "AI / Machine Learning",
+            "items": [
+                "Machine Learning Fundamentals",
+                "Supervised & Unsupervised Learning",
+                "Model Evaluation Concepts",
+                "Prompt Engineering",
+                "LLM API Integration",
+                "Feature Engineering Basics"
+            ]
+        },
+        {
+            "category": "Data Science & Analytics",
+            "items": [
+                "Data Cleaning & Preprocessing",
+                "Exploratory Data Analysis (EDA)",
+                "Basic Statistics",
+                "Data Visualization",
+                "Python for Data Analysis",
+                "Insight Generation"
+            ]
+        },
+        {
+            "category": "No-Code / Low-Code",
+            "items": [
+                "Workflow Automation",
+                "API-Based Integrations",
+                "Rapid Prototyping",
+                "Logic & Condition Builders",
+                "Database Connections"
+            ]
+        },
+        {
+            "category": "Frontend",
+            "items": [
+                "React.js",
+                "JavaScript (ES6+)",
+                "HTML5",
+                "CSS3",
+                "Tailwind CSS",
+                "Responsive UI Design"
+            ]
+        },
+        {
+            "category": "Backend & Integration",
+            "items": [
+                "Node.js Basics",
+                "Express.js Basics",
+                "Flask",
+                "Rest APIs"
+            ]
+        },
+        {
+            "category": "Tools",
+            "items": [
+                "GitHub",
+                "AntiGravity",
+                "Bolt",
+                "Figma Basics",
+                "Canva"
+            ]
+        }
+    ],
+    "timeline": [
+        {
+            "year": "2023",
+            "title": "Self-Directed Learning & Prototyping",
+            "company": "Independent",
+            "description": "Built foundations in machine learning, data science, analytics, and frontend development by shipping functional prototypes instead of only following tutorials."
+        },
+        {
+            "year": "2024",
+            "title": "Hackathons & Competitive Building",
+            "company": "Multiple Events",
+            "description": "Participated in national-level hackathons, shortlisted for Smart India Hackathon (SIH), finalist at Woodpecker Hackathon, and gained hands-on experience building rapid prototypes under real-world constraints."
+        },
+        {
+            "year": "2025 (6 months)",
+            "title": "AI/ML Intern",
+            "company": "Witness Manera",
+            "description": "Designed workflows for an AI-powered support assistant, built chatbot conversational logic, developed a sentiment analysis model for customer reviews, explored recommendation system approaches, and automated generation of 2,000+ rows of synthetic data for API testing."
+        },
+        {
+            "year": "2025–2026 Present",
+            "title": "Founder & Builder – EvalPro",
+            "company": "Personal Project",
+            "description": "Developing a virtual evaluation platform with aptitude tests, technical assessments, HR interviews, user dashboards, and rule-based plus AI-assisted scoring."
+        }
+    ]
+}

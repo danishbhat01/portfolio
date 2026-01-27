@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Speaker & Workshop Conductor",
+        "organization": "Multiple Institutions",
+        "date": "2023–2024",
+        "image": "https://images.unsplash.com/photo-1544531586-fde5298cdd40?auto=format&fit=crop&w=800&q=80",
+        "description": "Delivered sessions on presentation skills, entrepreneurship, and tech career guidance; mentored 200+ students."
+    },
+    {
+        "title": "Hackathon Finalist – Woodpecker Hackathon",
+        "organization": "Woodpecker Hackathon",
+        "date": "2024",
+        "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=800&q=80",
+        "description": "Built a machine maintenance ML solution projected to reduce machine downtime by predicting threshold duration for maintenance, demonstrating ability to align machine learning with real business problems."
+    },
+    {
+        "title": "Event Lead & Main Host – Trinovate Synergy",
+        "organization": "Trinity Academy of Engineering, Pune",
+        "date": "2024–2025",
+        "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80",
+        "description": "Led planning and execution of a state-level technical fest, secured sponsorship and funding, coordinated teams, and hosted the flagship event."
+    },
+    {
+        "title": "Patent Filed – AI-Based Interview Evaluation System",
+        "organization": "Intellectual Property India",
+        "date": "2025–2026",
+        "image": "https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?auto=format&fit=crop&w=800&q=80",
+        "description": "Filed a patent for an AI-powered system that automates technical interviews, evaluates candidate responses, and generates structured assessment reports."
+    },
+    {
+        "title": "Research Paper Submitted – AI-Based Interview Evaluation System",
+        "organization": "Under Review",
+        "date": "2025–2026",
+        "image": "https://images.unsplash.com/photo-1532619675605-1ede6c2ed2b0?auto=format&fit=crop&w=800&q=80",
+        "description": "Authored a research paper detailing system architecture, methodology, and experimental evaluation of an AI-driven interview and candidate assessment platform."
+    }
+]
