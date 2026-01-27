@@ -21,7 +21,7 @@ export default function Navbar() {
                         <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center text-white">
                             <Database size={18} />
                         </div>
-                        <span>Data.Portfolio</span>
+                        <span>Danish.Dev</span>
                     </div>
 
                     <div className="hidden md:block">
